@@ -1,0 +1,8 @@
+item{
+	id: 1
+	name: 'crawler_crane'
+}
+item{
+	id: 2
+	name: 'excavator'
+}
